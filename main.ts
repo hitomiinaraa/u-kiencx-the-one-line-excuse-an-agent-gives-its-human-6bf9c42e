@@ -1,3 +1,4 @@
+// Revision pass: one line at the top, the entry untouched below.
 // One-line excuse entry (Node 22, standard library only): writes exactly
 // the winning line to /output/entry.txt, no trailing newline, deterministic
 // on every run.
